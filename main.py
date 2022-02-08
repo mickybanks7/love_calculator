@@ -5,8 +5,8 @@ name2 = input("What is their name? \n")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-names = name1 + name2
-names.lower()
+name_combine = name1 + name2
+names = name_combine.lower()
 
 t = names.count('t')
 r = names.count('r')
