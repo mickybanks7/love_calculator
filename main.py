@@ -25,7 +25,7 @@ add_love = l + o + v + e
 add_both = int(str(add_true) + str(add_love))
 
 if add_both < 10 or add_both > 90:
-  print(f'Your score is {add_both}, you go together like coke and mentors')
+  print(f'Your score is {add_both}, you go together like coke and mentos')
 elif add_both >= 40 and add_both <= 50:
   print(f'Your score is {add_both}, you are alright together')
 else:
